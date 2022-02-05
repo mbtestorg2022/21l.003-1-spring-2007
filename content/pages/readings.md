@@ -30,31 +30,309 @@ Roy, Arundhati. _God of Small Things_ (1997). New York, NY: Harvest Books, 1998.
 Readings by Session{{< anchor "session" >}}{{< /anchor >}}
 ----------------------------------------------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | (no readings) |
-| 2 | Leo Tolstoy | Tolstoy, Leo. _Anna Karenina_ (1877). Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Penguin Classics, 2003, chapter 1. ISBN: 9780140449174. The [e-text](http://www.gutenberg.org/etext/1399) is available at Project Gutenberg. |
-| 3 | Mary Shelley | _Frankenstein_, vols. 1-2. |
-| 4 | _Frankenstein_, vol. 3. |
-| 5 | Edgar Allan Poe | Poe, Edgar Allan. "The Fall of the House of Usher." In _The Fall of the House of Usher and Other Tales_ (1839). Edited by Stephen Marlowe. New York, NY: Signet Classics, 1998. ISBN: 9780451526755. Both the [e-text](http://www.gutenberg.org/etext/1399) and [audio book](http://www.gutenberg.org/etext/6557) are available at Project Gutenberg. |
-| 6 | Nathaniel Hawthorne | _The Scarlet Letter_, "Custom House." - chapter 9. |
-| 7 | _The Scarlet Letter_, chapters 10-end. |
-| 8 | Workshop: Crafting an argument | (no readings) |
-| 9 | E. M. Forster | _Howard's End_, chapters 1-16. |
-| 10 | _Howard's End_, chapters 17-end. |
-| 11 | D. H. Lawrence | Lawrence, D. H. _Rocking Horse Winner_ (1926). Whitefish, MT: Kessinger Publishing, 2004. ISBN: 9781419180835. |
-| 12 | Virginia Woolf | _To the Lighthouse_, "The Window," and "Time Passes." |
-| 13 | _To the Lighthouse_, "The Lighthouse." |
-| 14 | William Faulkner | _As I Lay Dying_, pp. 1-140. |
-| 15 | _As I Lay Dying_, pp. 141-end. |
-| 16 | James Baldwin | _Go Tell it on the Mountain_, pp. 1-128. |
-| 17 | _Go Tell it on the Mountain_, pp. 129-end. |
-| 18 |  {{< br >}}{{< br >}} Carson McCullers {{< br >}}{{< br >}} Workshop: Revising a paper {{< br >}}{{< br >}}  | McCullers, Carson. "A Domestic Dilemma." In _Collected Stories of Carson McCullers_ (1951). New York, NY: Mariner Books, 1998. ISBN: 9780395925058. |
-| 19 | Flannery O'Connor | _A Good Man is Hard to Find_, "A Good Man," and "The Life You Save." |
-| 20 | _A Good Man is Hard to Find_, "Good Country People." |
-| 21 | Cristina Garcia | _Dreaming in Cuban_, pp. 1-126. |
-| 22 | _Dreaming in Cuban_, pp. 127-end. |
-| 23 | Toni Morrison | _Jazz_, pp. 1-87. |
-| 24 | _Jazz_, pp. 89-end. |
-| 25 | Arundhati Roy | _God of Small Things_, chapters 1-7. |
-| 26 | _God of Small Things_, chapters 8-end.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Leo Tolstoy
+{{< tdclose >}}
+{{< tdopen >}}
+Tolstoy, Leo. _Anna Karenina_ (1877). Translated by Richard Pevear and Larissa Volokhonsky. New York, NY: Penguin Classics, 2003, chapter 1. ISBN: 9780140449174. The [e-text](http://www.gutenberg.org/etext/1399) is available at Project Gutenberg.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+_Frankenstein_, vols. 1-2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Frankenstein_, vol. 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Edgar Allan Poe
+{{< tdclose >}}
+{{< tdopen >}}
+Poe, Edgar Allan. "The Fall of the House of Usher." In _The Fall of the House of Usher and Other Tales_ (1839). Edited by Stephen Marlowe. New York, NY: Signet Classics, 1998. ISBN: 9780451526755. Both the [e-text](http://www.gutenberg.org/etext/1399) and [audio book](http://www.gutenberg.org/etext/6557) are available at Project Gutenberg.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nathaniel Hawthorne
+{{< tdclose >}}
+{{< tdopen >}}
+_The Scarlet Letter_, "Custom House." - chapter 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_The Scarlet Letter_, chapters 10-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Crafting an argument
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+E. M. Forster
+{{< tdclose >}}
+{{< tdopen >}}
+_Howard's End_, chapters 1-16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Howard's End_, chapters 17-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+D. H. Lawrence
+{{< tdclose >}}
+{{< tdopen >}}
+Lawrence, D. H. _Rocking Horse Winner_ (1926). Whitefish, MT: Kessinger Publishing, 2004. ISBN: 9781419180835.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf
+{{< tdclose >}}
+{{< tdopen >}}
+_To the Lighthouse_, "The Window," and "Time Passes."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_To the Lighthouse_, "The Lighthouse."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+William Faulkner
+{{< tdclose >}}
+{{< tdopen >}}
+_As I Lay Dying_, pp. 1-140.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_As I Lay Dying_, pp. 141-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+James Baldwin
+{{< tdclose >}}
+{{< tdopen >}}
+_Go Tell it on the Mountain_, pp. 1-128.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Go Tell it on the Mountain_, pp. 129-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carson McCullers
+
+Workshop: Revising a paper
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+McCullers, Carson. "A Domestic Dilemma." In _Collected Stories of Carson McCullers_ (1951). New York, NY: Mariner Books, 1998. ISBN: 9780395925058.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Flannery O'Connor
+{{< tdclose >}}
+{{< tdopen >}}
+_A Good Man is Hard to Find_, "A Good Man," and "The Life You Save."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_A Good Man is Hard to Find_, "Good Country People."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Cristina Garcia
+{{< tdclose >}}
+{{< tdopen >}}
+_Dreaming in Cuban_, pp. 1-126.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Dreaming in Cuban_, pp. 127-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_, pp. 1-87.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Jazz_, pp. 89-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Arundhati Roy
+{{< tdclose >}}
+{{< tdopen >}}
+_God of Small Things_, chapters 1-7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_God of Small Things_, chapters 8-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

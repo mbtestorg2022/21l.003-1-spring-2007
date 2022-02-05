@@ -57,33 +57,292 @@ Meeting times with the writing specialist are by appointment. To make an appoint
 Grading
 -------
 
-| REQUIREMENTS | GRADING |
-| --- | --- |
-| Participation | 10% |
-| Essay 1 | 10% |
-| Essay 2 | 15% |
-| Essay 3 | 20% |
-| Revision | 20% |
-| Essay 4 | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+GRADING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revision
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 4
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Leo Tolstoy | &nbsp; |
-| 3-4 | Mary Shelley | &nbsp; |
-| 5 | Edgar Allan Poe | Essay 1 due |
-| 6-7 | Nathaniel Hawthorne | &nbsp; |
-| 8 | Workshop: Crafting an argument | &nbsp; |
-| 9-10 | E. M. Forster | &nbsp; |
-| 11 | D. H. Lawrence | Essay 2 due |
-| 12-13 | Virginia Woolf | &nbsp; |
-| 14-15 | William Faulkner | Essay 3 due in Ses #15 |
-| 16-17 | James Baldwin | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Carson McCullers {{< br >}}{{< br >}} Workshop: Revising a paper {{< br >}}{{< br >}}  | &nbsp; |
-| 19-20 | Flannery O'Connor | Revision due |
-| 21-22 | Cristina Garcia | &nbsp; |
-| 23-24 | Toni Morrison | &nbsp; |
-| 25-26 | Arundhati Roy | Essay 4 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Leo Tolstoy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Edgar Allan Poe
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Nathaniel Hawthorne
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Crafting an argument
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+E. M. Forster
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+D. H. Lawrence
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+William Faulkner
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due in Ses #15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+James Baldwin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carson McCullers
+
+Workshop: Revising a paper
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+Flannery O'Connor
+{{< tdclose >}}
+{{< tdopen >}}
+Revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Cristina Garcia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Arundhati Roy
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
